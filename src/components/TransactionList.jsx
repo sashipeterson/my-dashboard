@@ -1,4 +1,4 @@
-import { mockTransactions } from '../data/mockData.js'
+import { mockTransactions } from '../data2/mockData.js'
 import Grid from '@mui/material/Grid';
 
 export default function TransactionList() {

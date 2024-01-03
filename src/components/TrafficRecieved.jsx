@@ -1,4 +1,4 @@
-import { mockTransactions } from '../data/mockData.js'
+import { mockTransactions } from '../data2/mockData.js'
 
 export default function TrafficRecieved () {
     const transactionCount = mockTransactions.length
